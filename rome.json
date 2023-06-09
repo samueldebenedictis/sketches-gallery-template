@@ -1,0 +1,13 @@
+{
+	"files": {
+		"ignore": ["public/pages/", "test-results", "playwright-report", "build", "src/types.ts"]
+	},
+	"formatter": {
+		"enabled": true,
+		"indentStyle": "tab",
+		"lineWidth": 120
+	},
+	"linter": {
+		"enabled": true
+	}
+}
